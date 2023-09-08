@@ -3,7 +3,7 @@
  
 The second app from my (re)Boot Camp (2023 reboot of the Udemy iOS App Development course).
 
-On this reboot of my iOS Dev journey, I'm going to be using GitHub to both show my work as well as to summarize my learning through each unit/project.
+On this reboot of my iOS Dev journey, I'm going to use GitHub to show my work and to summarize my learning through each unit/project.
 
 The second app was a challenge to apply the lessons and reinforce skills introduced in the first app (I Am Rich).
 
